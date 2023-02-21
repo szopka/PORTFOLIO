@@ -36,7 +36,7 @@ I'm Marta and few months ago I started my first quest through the IT world. For 
 
 # Samples
 
-Website - https://scouts-test.futbolkolektyw.pl/pl 
+**Website** - https://scouts-test.futbolkolektyw.pl/pl 
 
 [Test Cases](https://docs.google.com/spreadsheets/d/1GNO9gsMaKOLFxStR4nERPtgUnJ2K0XqZ8_6cHvbaXXg/edit#gid=0)  
 
@@ -44,7 +44,7 @@ Website - https://scouts-test.futbolkolektyw.pl/pl
 
 [Defect report]
 
-OLX (mobile app)
+**OLX (mobile app)**
 
 [Defects](https://docs.google.com/spreadsheets/d/1FJpszWl1i7Sr17xxEeJMNroumkMNNFEDECX1vSWQblc/edit#gid=0)
 
