@@ -3,7 +3,7 @@
 # About
 
 
-I'm Marta and few months ago I started my first quest through the IT world. For many years I didn't dare . Recently i've started my first testing job which gave me
+I'm Marta and few months ago I started my first quest through the IT world. Recently i've started my first testing job which gave me the opportunity to verify if I'm following the right path. Now that I am sure to be on a right way I want to develop myself even more. I'd like to elaborate on my SQL skills and gain even more expereinece as a tester.
 
 # Tools
 
@@ -42,10 +42,14 @@ I'm Marta and few months ago I started my first quest through the IT world. For 
 
 [Defects](https://docs.google.com/spreadsheets/d/13Aztky405tAc1lmBdkNsgUmOiG10nXpSFx1elPr5YfU/edit#gid=0)
 
-[Defect report]
+[Defect report](https://drive.google.com/file/d/1_p7mlkXooOBLpQMA2XKDWnEl8ptX6ufo/view?usp=sharing)
 
 **OLX (mobile app)**
 
 [Defects](https://docs.google.com/spreadsheets/d/1FJpszWl1i7Sr17xxEeJMNroumkMNNFEDECX1vSWQblc/edit#gid=0)
 
 # Resumee
+
+to be uploaded
+
+
