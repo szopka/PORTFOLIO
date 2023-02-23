@@ -2,8 +2,7 @@
 
 # About
 
-
-I'm Marta and few months ago I started my first quest through the IT world. Recently i've started my first testing job which gave me the opportunity to verify if I'm following the right path. Now that I am sure to be on a right way I want to develop myself even more. I'd like to elaborate on my SQL skills and gain even more expereinece as a tester.
+I'm Marta and a few months ago I started my first journey through the IT world. Recently I started my first testing job which allowed me to verify if I'm following the right path. Now that I am sure to be on the right way I want to develop myself even more. I'd like to develop  my SQL skills and gain even more experience as a tester.
 
 # Tools
 
